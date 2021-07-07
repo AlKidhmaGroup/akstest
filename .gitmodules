@@ -7,3 +7,8 @@
 	path = shaniba2021/sale_details/my_addons/saledetails
 	url = git@github.com:shaniba2021/sale_details.git
 	branch = master
+
+[submodule "shaniba2021/odoo13Pdetails"]
+	path = shaniba2021/odoo13Pdetails
+	url = git@github.com:shaniba2021/odoo13Pdetails.git
+	branch = master
