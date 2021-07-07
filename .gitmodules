@@ -1,0 +1,4 @@
+[submodule "main/my_addons_13/sale_datails"]
+	path = main/my_addons_13/sale_datails
+	url = git@github.com:sumayyarimshad/sale_datails.git
+	branch = main
