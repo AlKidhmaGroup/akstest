@@ -2,3 +2,8 @@
 	path = main/my_addons_13/sale_datails
 	url = git@github.com:sumayyarimshad/sale_datails.git
 	branch = main
+
+[submodule "shaniba2021/sale_details/my_addons/saledetails"]
+	path = shaniba2021/sale_details/my_addons/saledetails
+	url = git@github.com:shaniba2021/sale_details.git
+	branch = master
