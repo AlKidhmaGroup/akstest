@@ -12,3 +12,6 @@
 	path = shaniba2021/odoo13Pdetails
 	url = git@github.com:shaniba2021/odoo13Pdetails.git
 	branch = master
+[submodule "akstest"]
+	path = akstest
+	url = https://github.com/AlKidhmaGroup/akstest.git
